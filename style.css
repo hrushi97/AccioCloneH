@@ -1,0 +1,13 @@
+.nav-btns{
+    background-color: white;
+    border-color: #2F80ED;
+    border-radius: 4px;
+    padding: 10px;    
+}
+.next-batch{
+    justify-content: center;
+    background-color: #2F80ED;
+    margin-top: 10px;
+    align-items: center;
+
+}
